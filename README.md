@@ -64,6 +64,18 @@ Calcule las potencia consumida por RL, para cada valor dado y anote los resultad
 
 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
+![image](https://user-images.githubusercontent.com/93899720/149421710-8b48eaad-8c52-4242-bd5a-2662dd6f801e.png)
+![image](https://user-images.githubusercontent.com/93899720/149421756-46afad3c-3e06-44da-8ade-babd9f9b4db0.png)
+![image](https://user-images.githubusercontent.com/93899720/149421893-b0b0a84b-95e2-4638-85fa-f0357b6a5f35.png)
+![image](https://user-images.githubusercontent.com/93899720/149421931-3679f46d-2c65-4916-9c7d-25a3971db2b8.png)
+![image](https://user-images.githubusercontent.com/93899720/149421953-fe41621c-2a60-4813-876b-75d7f34582a7.png)
+![image](https://user-images.githubusercontent.com/93899720/149421977-291a3020-177f-49e1-b51b-3e0b3c5a98d1.png)
+![image](https://user-images.githubusercontent.com/93899720/149422001-9e6cf01d-ee36-4e83-ba9e-deb81398112a.png)
+![image](https://user-images.githubusercontent.com/93899720/149422018-c6abf803-ba48-4172-88d2-093c2ab930fe.png)
+![image](https://user-images.githubusercontent.com/93899720/149422071-4e94e8ce-4db7-48e0-9d3d-1509e4e8b0b5.png)
+![image](https://user-images.githubusercontent.com/93899720/149422092-5d6f0af5-7db8-4058-9607-1d433cb361da.png)
+![image](https://user-images.githubusercontent.com/93899720/149422111-fd0d2559-65a2-483e-8e42-271b6a47e196.png)
+
 
 
 5. VIDEO
