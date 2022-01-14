@@ -2,9 +2,13 @@
 
 1. OBJETIVOS
 
+•	Comprobar experimentalmente el Teorema de la Máxima Transferencia de Potencia.
+•	Aplicar el teorema de transferencia de potencia máxima
 
 
 2. MARCO TEÓRICO 
+
+![Laboratorio 3 parcial 2](https://user-images.githubusercontent.com/93950169/149451361-b66d67c3-7c70-4d31-8b2a-b8009902f73d.jpg)
 
 
 3. EXPLICACIÓN DEL PROCEDIMIENTO
@@ -96,7 +100,9 @@ https://youtu.be/wsp4hVN0wsk
 
 6. CONCLUSIONES
 
-
+Mediante el cumplimiento del procedimiento establecido se pudo comprobar que el teorema de máxima transferencia de potencia sí se cumple debido a que mediante la experimentación se consiguió que la máxima transferencia de potencia de 0.0465 W   se  consiguió con una resistencia de 1000 ohmios siendo este el valor más cercano a 1200 ohmios  cuando la resistencia de carga es igual a la resistencia interna del circuito Thévenin
 
 7. BIBLIOGRAFÍA
 
+•	Principios de circuitos eléctricos. (2021). [Ebook] (8th ed.). (2021). Retrieved 06 January 2021, from http://www.inet.edu.ar/wp-content/uploads/2020/07/ELECTRONICA_Gu--a03-Potencia.pdf
+•	Floyd, T. (2007). Principios de circuitos eléctricos (8a. ed.). Naucalpan de Juárez: Pearson Educación.
